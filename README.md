@@ -1,2 +1,2 @@
-# higo-adapter
-higo-adapter releases
+# samedi-higo-adapter
+samedi-higo-adapter releases
